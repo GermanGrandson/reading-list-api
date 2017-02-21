@@ -144,6 +144,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 1.11, >= 1.11.2)
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
